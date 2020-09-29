@@ -1,0 +1,14 @@
+{
+  "name": "jfweb-vue-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/wujianfei/jfweb-vue-ui.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujianfei/jfweb-vue-ui.git"
+  },
+  "description": ""
+}
